@@ -29,16 +29,16 @@ I am a fullstack web developer<br>I do project as a freelancer<br>I am in love w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohsen-bahrami-mb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen-bahrami-mb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<-- ## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=mohsenbahrami_)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-<-- ### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohsen-bahrami-mb&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-<-- ### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
