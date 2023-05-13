@@ -38,6 +38,9 @@ I am a fullstack web developer<br>I do project as a freelancer<br>I am in love w
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohsen-bahrami-mb&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohsen-bahrami-mb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
