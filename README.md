@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsen-bahrami-mb" alt="mohsen-bahrami-mb" /></a> </p>
 
-- 💬 **I am a passionate and detail-oriented Senior Full-Stack Developer with over 5 years of experience in building scalable web applications and software solutions. With a strong foundation in front-end and back-end development, I aim to create technology-driven solutions that improve user experience and solve real-world problems. Summary of my experiences in projects like Social network app, Network and security, Cryptocurrency, several panels, games , extension.**
+- 💬 **I am a passionate and detail-oriented Senior Full-Stack Developer with over 7 years of experience in building scalable web applications and software solutions. With a strong foundation in front-end and back-end development, I aim to create technology-driven solutions that improve user experience and solve real-world problems. Summary of my experiences in projects like Social network app, Network and security, Cryptocurrency, several panels, games , extension.**
 
 - 📫 How to reach me **mohsen.bahrami7690@gmail.com**
 
