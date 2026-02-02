@@ -6,7 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsen-bahrami-mb" alt="mohsen-bahrami-mb" /></a> </p>
 
-- 👨‍💻 Building scalable backend systems and modern web apps.
+---
+##### Always learning. Always building.
+---
+
+- 👨‍💻 Focused on building scalable backend systems and modern web applications. Background in startup leadership and product development, now specializing in NestJS, React, Redis, and microservices. I enjoy turning complex business problems into clean, maintainable engineering solutions.
 
 - 🌱 I'm currently learning **Network+**
 
