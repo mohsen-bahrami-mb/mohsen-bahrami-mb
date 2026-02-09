@@ -12,13 +12,13 @@
 
 - 👨‍💻 Focused on building scalable backend systems and modern web applications. Background in startup leadership and product development, now specializing in NestJS, React, Redis, and microservices. I enjoy turning complex business problems into clean, maintainable engineering solutions.
 
-- 🌱 I'm currently learning **Network+**
+- 🌱 I'm currently learning **Django**
 
 - 👯 I'm looking to collaborate on **Cool IT projects**
 
 - 📫 How to reach me **mohsen.bahrmai7690@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1WZ3s4hvpkv8ZdNEuuIQ_rP5dj32SH8md/view?usp=sharing](https://drive.google.com/file/d/1WZ3s4hvpkv8ZdNEuuIQ_rP5dj32SH8md/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1kwtp2eHvUoLsq0eXeMPAsuyNxaLmKH1K/view?usp=sharing](https://drive.google.com/file/d/1kwtp2eHvUoLsq0eXeMPAsuyNxaLmKH1K/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
