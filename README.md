@@ -12,7 +12,7 @@
 
 - 👨‍💻 Focused on building scalable backend systems and modern web applications. Background in startup leadership and product development, now specializing in NestJS, React, Redis, and microservices. I enjoy turning complex business problems into clean, maintainable engineering solutions.
 
-- 🌱 I'm currently learning **Django**
+- 🌱 I'm currently learning **AI Engineering**
 
 - 👯 I'm looking to collaborate on **Cool IT projects**
 
