@@ -1,5 +1,5 @@
 # Hello 👋, I'm Mohsen Bahrami
-### Software Engineer (👨‍💻 Just a Tech)
+### Software Engineer
 
 Focused on building scalable backend systems and modern web applications. Background in startup leadership and product development, now specializing in NestJS, React, Redis, and microservices. I enjoy turning complex business problems into clean, maintainable engineering solutions.
 
